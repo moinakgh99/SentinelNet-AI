@@ -28,17 +28,6 @@ This system demonstrates a complete end-to-end ML pipeline:
 
 ---
 
-# 🎥 **Dashboard Demonstration Video**
-
-> The entire UI, animations, ML pipeline integration, and real-time monitoring are shown in the video below.
-
-<video controls width="100%">
-  <source src="video/DashboardDemo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
----
 
 # 🖼️ **Screenshots**
 
