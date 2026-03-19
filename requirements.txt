@@ -1,4 +1,10 @@
+ HEAD
 streamlit==1.32.0
 pandas==2.2.0
 numpy==1.26.3
+
+streamlit==1.32.0
+pandas==2.2.0
+numpy==1.26.3
+4d863fc5c9557e442413cd7056d42d89c194e2
 plotly==5.18.0
