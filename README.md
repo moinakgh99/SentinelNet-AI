@@ -11,6 +11,55 @@
 
 ---
 
+## 🌐 Live Demo
+
+<p align="center">
+
+<a href="https://sentinelnet-ai.streamlit.app/">
+<img src="https://img.shields.io/badge/🛡️_Try_SentinelNet_Live-00FFFF?style=for-the-badge&logo=streamlit&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+## 🧪 Quick Testing Guide
+
+Want to test SentinelNet instantly?
+
+### Step 1
+
+Download the sample dataset:
+
+<a href="https://github.com/moinakgh99/SentinelNet/raw/main/sample_test_50.csv">
+<img src="https://img.shields.io/badge/📥_Download_sample50.csv-14FFEC?style=for-the-badge&logo=databricks&logoColor=black"/>
+</a>
+
+### Step 2
+
+Launch the application.
+
+### Step 3
+
+Open **Live Analysis**.
+
+### Step 4
+
+Upload the downloaded CSV file.
+
+### Step 5
+
+Explore:
+
+* 🚨 Threat Detection
+* 📊 Network Analytics
+* 🤖 ML Predictions
+* ⚠️ Security Alerts
+
+---
+
+
+
 ## 🚀 Overview
 
 **SentinelNet** is an advanced **Network Intrusion Detection System (NIDS)** designed to detect malicious network behavior using **Machine Learning** and **Anomaly Detection** techniques.
